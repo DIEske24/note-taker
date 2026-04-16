@@ -15,6 +15,6 @@ A simple note-taking web application built with Laravel 13 and Tailwind CSS.
 
 ## Tech Stack
 - Laravel 13
-- Tailwind CSS v3
+- Tailwind CSS v3 
 - MySQL
 - Laravel Breeze (Authentication)
